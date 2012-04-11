@@ -1,6 +1,6 @@
                     PHP Redis Broser v0.1
   
-    a simple, one-file php based browser for your Redis database  
+    A simple, one-file PHP based admin console and browser for Redis  
   
     Try a demo at http://ohardt.com/php-rb/demo.php
 
