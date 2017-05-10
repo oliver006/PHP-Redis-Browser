@@ -2,14 +2,10 @@
   
     A simple, one-file PHP based admin console and browser for Redis  
   
-    Try a demo at http://ohardt.com/php-rb/demo.php
-
-    
- 
   
 ** LICENSE  
 
-Copyright (c) 2012         Contact: ohardt at gmail dot com
+Copyright (c) 2012         
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
